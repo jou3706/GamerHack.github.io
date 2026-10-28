@@ -10,6 +10,21 @@ html {
     overflow: hidden;
 }
 
+.king-name {
+    font-size: 56px !important;
+    color: #ffd700 !important;
+}
+
+.contact-link {
+    color: #00e5ff !important;
+    text-decoration: underline;
+    font-size: 40px !important;
+}
+
+.contact-link:hover {
+    color: #ffd700 !important;
+}
+
 h1 {
     text-shadow: 0.1em 0.1em 0.2em black;
     font-size: 25px;
