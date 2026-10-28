@@ -20,6 +20,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #ffd700;
+}
+
 #progress {
     display: block;
 }
